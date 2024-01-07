@@ -1,0 +1,4 @@
+User Adı: Admin123
+Şifre: Admin123@
+E-posta: ad@
+Telefon: 999-999-9999

@@ -1,0 +1,7 @@
+C:\Users\Ensar's PC\Desktop\lab3dönem\Yeni2\Yeni2\bin\Debug\Yeni2.exe.config
+C:\Users\Ensar's PC\Desktop\lab3dönem\Yeni2\Yeni2\bin\Debug\Yeni2.exe
+C:\Users\Ensar's PC\Desktop\lab3dönem\Yeni2\Yeni2\bin\Debug\Yeni2.pdb
+C:\Users\Ensar's PC\Desktop\lab3dönem\Yeni2\Yeni2\obj\Debug\220229027_ENSAR_YİĞİT_SARITAŞ.csproj.AssemblyReference.cache
+C:\Users\Ensar's PC\Desktop\lab3dönem\Yeni2\Yeni2\obj\Debug\220229027_ENSAR_YİĞİT_SARITAŞ.csproj.CoreCompileInputs.cache
+C:\Users\Ensar's PC\Desktop\lab3dönem\Yeni2\Yeni2\obj\Debug\Yeni2.exe
+C:\Users\Ensar's PC\Desktop\lab3dönem\Yeni2\Yeni2\obj\Debug\Yeni2.pdb

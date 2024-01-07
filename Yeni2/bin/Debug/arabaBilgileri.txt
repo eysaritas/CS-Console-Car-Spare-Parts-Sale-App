@@ -1,0 +1,100 @@
+Toyota,Corolla,Vision,Fren Diski,92
+Toyota,Corolla,Vision,Buji,30
+Toyota,Corolla,Vision,Basınç Sensörü,45
+Toyota,Corolla,Vision,Cam Sileceği,50
+Toyota,Corolla,Vision,Motor Yağı Filtresi,60
+Toyota,Corolla,Dream Multidrive,Fren Diski,25
+Toyota,Corolla,Dream Multidrive,Buji,55
+Toyota,Corolla,Dream Multidrive,Basınç Sensörü,70
+Toyota,Corolla,Dream Multidrive,Cam Sileceği,90
+Toyota,Corolla,Dream Multidrive,Motor Yağı Filtresi,61
+Honda,Civic,Sport,Fren Diski,47
+Honda,Civic,Sport,Buji,39
+Honda,Civic,Sport,Basınç Sensörü,48
+Honda,Civic,Sport,Cam Sileceği,42
+Honda,Civic,Sport,Motor Yağı Filtresi,60
+Honda,Civic,Technology,Fren Diski,48
+Honda,Civic,Technology,Buji,37
+Honda,Civic,Technology,Basınç Sensörü,23
+Honda,Civic,Technology,Cam Sileceği,94
+Honda,Civic,Technology,Motor Yağı Filtresi,67
+Ford,Focus,Titanium,Fren Diski,46
+Ford,Focus,Titanium,Buji,33
+Ford,Focus,Titanium,Basınç Sensörü,27
+Ford,Focus,Titanium,Cam Sileceği,59
+Ford,Focus,Titanium,Motor Yağı Filtresi,25
+Ford,Focus,Winter,Fren Diski,87
+Ford,Focus,Winter,Buji,68
+Ford,Focus,Winter,Basınç Sensörü,72
+Ford,Focus,Winter,Cam Sileceği,48
+Ford,Focus,Winter,Motor Yağı Filtresi,31
+Volkswagen,Golf,R-Line,Fren Diski,65
+Volkswagen,Golf,R-Line,Buji,33
+Volkswagen,Golf,R-Line,Basınç Sensörü,69
+Volkswagen,Golf,R-Line,Cam Sileceği,51
+Volkswagen,Golf,R-Line,Motor Yağı Filtresi,68
+Volkswagen,Golf,Comfortline,Fren Diski,65
+Volkswagen,Golf,Comfortline,Buji,35
+Volkswagen,Golf,Comfortline,Basınç Sensörü,70
+Volkswagen,Golf,Comfortline,Cam Sileceği,50
+Volkswagen,Golf,Comfortline,Motor Yağı Filtresi,65
+Chevrolet,Malibu,LT,Fren Diski,65
+Chevrolet,Malibu,LT,Buji,34
+Chevrolet,Malibu,LT,Basınç Sensörü,69
+Chevrolet,Malibu,LT,Cam Sileceği,50
+Chevrolet,Malibu,LT,Motor Yağı Filtresi,60
+Chevrolet,Malibu,Premier,Fren Diski,40
+Chevrolet,Malibu,Premier,Buji,50
+Chevrolet,Malibu,Premier,Basınç Sensörü,60
+Chevrolet,Malibu,Premier,Cam Sileceği,70
+Chevrolet,Malibu,Premier,Motor Yağı Filtresi,60
+BMW,3 Serisi,M Sport,Fren Diski,65
+BMW,3 Serisi,M Sport,Buji,35
+BMW,3 Serisi,M Sport,Basınç Sensörü,99
+BMW,3 Serisi,M Sport,Cam Sileceği,170
+BMW,3 Serisi,M Sport,Motor Yağı Filtresi,60
+BMW,3 Serisi,Luxury,Fren Diski,65
+BMW,3 Serisi,Luxury,Buji,35
+BMW,3 Serisi,Luxury,Basınç Sensörü,99
+BMW,3 Serisi,Luxury,Cam Sileceği,170
+BMW,3 Serisi,Luxury,Motor Yağı Filtresi,60
+Mercedes-Benz,E-Class,AMG,Fren Diski,75
+Mercedes-Benz,E-Class,AMG,Buji,85
+Mercedes-Benz,E-Class,AMG,Basınç Sensörü,70
+Mercedes-Benz,E-Class,AMG,Cam Sileceği,45
+Mercedes-Benz,E-Class,AMG,Motor Yağı Filtresi,100
+Mercedes-Benz,E-Class,Premium,Fren Diski,55
+Mercedes-Benz,E-Class,Premium,Buji,15
+Mercedes-Benz,E-Class,Premium,Basınç Sensörü,30
+Mercedes-Benz,E-Class,Premium,Cam Sileceği,35
+Mercedes-Benz,E-Class,Premium,Motor Yağı Filtresi,110
+Nissan,Altima,SL,Fren Diski,90
+Nissan,Altima,SL,Buji,45
+Nissan,Altima,SL,Basınç Sensörü,15
+Nissan,Altima,SL,Cam Sileceği,35
+Nissan,Altima,SL,Motor Yağı Filtresi,10
+Nissan,Altima,SV,Fren Diski,20
+Nissan,Altima,SV,Buji,46
+Nissan,Altima,SV,Basınç Sensörü,55
+Nissan,Altima,SV,Cam Sileceği,25
+Nissan,Altima,SV,Motor Yağı Filtresi,100
+Hyundai,Elantra,Limited,Fren Diski,60
+Hyundai,Elantra,Limited,Buji,15
+Hyundai,Elantra,Limited,Basınç Sensörü,85
+Hyundai,Elantra,Limited,Cam Sileceği,75
+Hyundai,Elantra,Limited,Motor Yağı Filtresi,100
+Hyundai,Elantra,Convenience,Fren Diski,70
+Hyundai,Elantra,Convenience,Buji,75
+Hyundai,Elantra,Convenience,Basınç Sensörü,95
+Hyundai,Elantra,Convenience,Cam Sileceği,35
+Hyundai,Elantra,Convenience,Motor Yağı Filtresi,50
+Audi,A4,S Line,Fren Diski,40
+Audi,A4,S Line,Buji,65
+Audi,A4,S Line,Basınç Sensörü,35
+Audi,A4,S Line,Cam Sileceği,90
+Audi,A4,S Line,Motor Yağı Filtresi,25
+Audi,A4,Advanced,Fren Diski,60
+Audi,A4,Advanced,Buji,55
+Audi,A4,Advanced,Basınç Sensörü,45
+Audi,A4,Advanced,Cam Sileceği,60
+Audi,A4,Advanced,Motor Yağı Filtresi,80
